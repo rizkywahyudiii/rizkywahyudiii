@@ -20,11 +20,11 @@
 
 <div align="center">
   <b>Connect with me</b><br>
-  <a href="mailto:rizkywahyudi21183@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rizky-wahyudi-67b39a2a3"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/rizky.wahyuudi?igsh=MW93OXVwbzI0aGZj"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/share/1GQix9So8Q/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://github.com/rizkywahyudiii"><img src="https://img.icons8.com/material-rounded/48/ffffff/github.png" alt="GitHub"/></a>
+  <a href="mailto:rizkywahyudi21183@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/rizky-wahyudi-67b39a2a3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/rizky.wahyuudi?igsh=MW93OXVwbzI0aGZj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/share/1GQix9So8Q/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://github.com/rizkywahyudiii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material-rounded/48/ffffff/github.png" alt="GitHub"/></a>
 </div>
 
 ---
