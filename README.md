@@ -21,6 +21,7 @@
   <b>Frameworks</b><br>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="httpsG://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </div>
 
 ---
