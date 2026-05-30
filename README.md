@@ -1,77 +1,51 @@
 <div align="center">
-  <!-- GitHub Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkywahyudiii/rizkywahyudiii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkywahyudiii/rizkywahyudiii/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rizkywahyudiii/rizkywahyudiii/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+  <h1>Hi, I'm Rizky Wahyudi</h1>
+  <p><b>Web Developer | Syntax Surfer | Chaos Coder</b></p>
+</div>
 
-  <h1>Hi, I'm Rizky Wahyudi (Omiki) 👾</h1>
+<hr>
+
+<h2 style="color:#e8df7a;">About Me</h2>
+<ul>
+  <li>Computer Science student at Universitas Negeri Medan.</li>
+  <li>Specializing in full-stack web development and cross-platform mobile architecture.</li>
+</ul>
+
+<hr>
+
+<h2 style="color:#e8df7a; display: flex; align-items: center;">
+  <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats & Analytics:</span>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkywahyudiii&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
   
-  <!-- Dynamic Typing Animation -->
-  <a href="https://github.com/rizkywahyudiii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cross-Platform+Mobile+Engineer;IoT+%26+Hardware+Enthusiast;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkywahyudiii&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Most%20Used%20Languages&text_color=e8df7a">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkywahyudiii&show_icons=true&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizkywahyudiii&theme=omni" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizkywahyudiii&theme=omni" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizkywahyudiii&theme=omni&utcOffset=+7" width="33%"><br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkywahyudiii&theme=omni" width="100%">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkywahyudiii&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
+</p>
 
----
+<hr>
 
-### 👨‍💻 About Me
-- 🎓 Computer Science student at **Universitas Harapan Medan**, based in North Sumatra.
-- 💻 Specializing in modern full-stack web development and cross-platform mobile architecture.
-- ⚙️ Integrating hardware and software through IoT (Raspberry Pi, ESP32) for smart monitoring systems.
-- 🚀 Passionate about clean code, lean infrastructure, and high-fidelity UI/UX design.
+<h3 style="color:#e8df7a;">Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
 
----
-
-### 🛠️ Tech Stack & Tools
+<hr>
 
 <div align="center">
-  <p><b>Languages</b></p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
+  <b>Connect with me</b><br>
   <br>
-
-  <p><b>Frameworks & Libraries</b></p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <!-- Wrapping stats in a table prevents layout breakage on different screen sizes -->
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=rizkywahyudiii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkywahyudiii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkywahyudiii&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-  <a href="mailto:rizkywahyudi21183@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rizky-wahyudi-67b39a2a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/rizkywahyudiii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/rizky.wahyuudi?igsh=MW93OXVwbzI0aGZj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:rizkywahyudi21183@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/rizky-wahyudi-67b39a2a3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/rizky.wahyuudi?igsh=MW93OXVwbzI0aGZj" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/rizkywahyudiii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
